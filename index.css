@@ -1,0 +1,35 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color:darkorchid
+
+}
+h1{
+    margin-top: 10rem;
+    text-align: center;
+    color: white;
+}
+.oyun{
+    font-size: 2rem;
+    text-align: center;
+}
+.from-control{
+    background-color: yellow;
+    font-size: 2rem;
+}
+.from-control-1{
+    border-radius: 4px;
+    text-align: center;
+    font-size: 2rem;
+    
+}
+.tekrar-oyna{
+    color: white;
+    background-color: red;
+    border-radius: 4px;
+    border: 0;
+    font-size: 2rem;
+    
+
+}
